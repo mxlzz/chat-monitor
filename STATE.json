@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "project": "chat-monitor",
+  "objective": "OBJECTIVE.md",
+  "plan": "PLAN.md",
+  "status": "ready",
+  "milestone": "H0",
+  "task": "H0.01",
+  "completed_tasks": [],
+  "evidence": [],
+  "audits": [],
+  "decisions": [
+    "LOG.md#2026-11-25--inicialización"
+  ],
+  "blockers": [],
+  "risks": [
+    "Permiso y viabilidad de lectura/envío automático en chats normales no establecidos",
+    "Repositorio público: no publicar datos privados"
+  ],
+  "next_action": {
+    "task": "H0.01",
+    "description": "Revisar fuentes oficiales sobre permisos de lectura y envío en chats normales; producir matriz de cuatro operaciones",
+    "expected_evidence": "evidence/H0.01.md",
+    "acceptance": "PLAN.md#primer-tramo"
+  },
+  "last_confirmed_base": "ba4e45c3a6aa55c8d2934f38bb662dda58bdb14d",
+  "last_change": "Inicialización documental; verificar commit de inicialización en HEAD/LOG al reanudar",
+  "updated_at": "2026-11-25"
+}
