@@ -3,27 +3,34 @@
   "project": "chat-monitor",
   "objective": "OBJECTIVE.md",
   "plan": "PLAN.md",
-  "status": "ready",
+  "status": "waiting",
   "milestone": "H0",
-  "task": "H0.02",
+  "task": "H0.DECISION",
   "completed_tasks": [
-    "H0.01"
+    "H0.01",
+    "H0.02",
+    "H0.03"
   ],
   "evidence": [
     "evidence/H0.01.md",
     "evidence/H0.02-sites.md",
     "evidence/H0.02-local-send.md",
-    "evidence/H0.02-gap-analysis.md"
+    "evidence/H0.02-gap-analysis.md",
+    "evidence/H0.02.md",
+    "evidence/H0.03.md"
   ],
-  "audits": [],
+  "audits": [
+    "audits/A-H0.md"
+  ],
   "decisions": [
     "LOG.md#2026-11-25--inicialización",
     "LOG.md#2026-11-25--h001",
-    "LOG.md#2026-11-25--publicación-y-reactivación"
+    "LOG.md#2026-11-25--publicación-y-reactivación",
+    "LOG.md#2026-11-25--cierre-h0"
   ],
   "blockers": [
-    "Integración real: extracción automática/programática de respuestas no autorizada prohibida por términos; permiso de envío externo no establecido. H0 documental puede continuar.",
-    "Envío directo desde Site a chat normal existente: mecanismo oficial no establecido; intento de tarea nativa rechazado, además descartado por el usuario para esta prueba."
+    "H1 completo bloqueado: permiso aplicable para envío externo no establecido; extracción programática sin autorización prohibida; no se identificó vía de continuación directa/automática para chats normales.",
+    "Aprobación de prototipo parcial Sites + publicación voluntaria + apertura/copia con envío humano pendiente."
   ],
   "risks": [
     "No se ha identificado vía oficial que cumpla R1–R4 simultáneamente",
@@ -31,12 +38,12 @@
     "Sites: disponibilidad del plugin en chats existentes y confirmaciones de escritura no probadas; R4 sigue sin solución"
   ],
   "next_action": {
-    "task": "H0.02",
-    "description": "Auditar candidatos de RESEARCH.md a nivel de documentación y código público, sin instalación ni interacción real; verificar alcance, permisos y brechas. Incluir publicación voluntaria vía conectores/Sites, asistencia manual de apertura/copia. No crear automatizaciones para probar envío directo. Completar comparación documental restante, incluyendo acceso remoto humano; no probar envío programático sin permiso establecido. Cerrar candidatos restantes (MultiChat Monitor, WebUI Bridge, Chat Alert, RustDesk y conectores pertinentes) antes de H0.03.",
-    "expected_evidence": "evidence/H0.02.md",
-    "acceptance": "PLAN.md#primer-tramo"
+    "task": "H0.DECISION",
+    "description": "Solicitar decisión explícita sobre prototipo parcial H1-P; si aprobado formalizar rama y pruebas, sin cambiar objetivo original ni activar automatizaciones; si no, mantener bloqueo hasta evidencia nueva.",
+    "expected_evidence": "evidence/H0.03.md",
+    "acceptance": "Aprobación explícita de alcance parcial o decisión de pausar"
   },
-  "last_confirmed_base": "62993dff7bd764475f77689457c3a438ce2b0920",
-  "last_change": "Inspección estática ChatCMD, brechas R1–R6 y túneles Sites; H0.02 global pendiente",
+  "last_confirmed_base": "0287300f64f7cb4edb9f18ae8edbf481c44d863d",
+  "last_change": "H0.02 y H0.03 cerrados documentalmente; A-H0 autoevaluación; H1 completo bloqueado; espera decisión de alcance parcial",
   "updated_at": "2026-11-25"
 }

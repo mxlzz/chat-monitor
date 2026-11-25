@@ -33,3 +33,6 @@ El usuario considera favorable explorar publicación voluntaria de resúmenes po
 
 ## Brechas e inspección ChatCMD
 [Anexo](evidence/H0.02-gap-analysis.md): código confirma registro de turnos nativos por captura, soporte de identidad y proyectos; alta manual por URL no confirmada. Túneles oficiales Sites documentados para Enterprise elegible, no asumir en Plus. Tailscale Serve no une automáticamente Site cloud con PC. Comparación preliminar R1–R6; no se autoriza envío automatizado.
+
+## Cierre H0
+[Revisión consolidada](evidence/H0.02.md), [comparación y decisión](evidence/H0.03.md), [autoevaluación](audits/A-H0.md). Integración completa bloqueada. Prototipo parcial Sites + plugin + apertura/copia manual recomendado, pendiente de aprobación. No se adopta extensión ni se ejecuta prueba real.
