@@ -19,3 +19,6 @@ Los hitos posteriores se desglosan al cerrar el anterior. Si una línea resulta 
 
 ## H0.04 — Reapertura focalizada
 Usuario rechaza alcance parcial. Inspección MultiChat y aclaración oficial de permisos de envío a pedido y automático sin extracción. Reevaluar A-H0 antes de H1; no iniciar integración real sin permiso.
+
+## H0.05–06 — Verificación sintética acotada
+Usuario autoriza avanzar, sin extracción, con reportes GitHub. H0.05: probar política de continuación en tres chats ficticios. H0.06: contrato de reportes GitHub y correlación sintética de identidad/turno; transporte separado. No H1 ni pruebas reales sin permiso aplicable; H0.04.PERMISSION permanece abierta.

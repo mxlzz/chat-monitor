@@ -8,3 +8,4 @@
 - [H0.02 — Revisión consolidada](H0.02.md)
 - [H0.03 — Decisión de viabilidad](H0.03.md)
 - [H0.04 — MultiChat y envío](H0.04.md)
+- [H0.05 — Ensayo sintético de continuación](H0.05.md)

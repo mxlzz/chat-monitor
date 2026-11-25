@@ -33,3 +33,6 @@ Aprobada la continuación del análisis, se completó revisión documental de ca
 
 ## 2026-11-25 — rechazo de prototipo parcial
 Usuario prioriza envío directo y automático. H0.04 inspección focalizada, sin pruebas reales. Siguiente: aclaración oficial de permisos; no se contactó soporte. H1 bloqueado. Objetivo intacto.
+
+## 2026-11-25 — alcance de envío y ensayo
+Usuario reafirma no extracción, avances vía GitHub y objetivo de reducir fricción de tres chats sin incremento previsto de mensajes. Autoriza proceder; autorización del servicio no establecida. Se recupera commit H0.04 como ancestro, se añade H0.05 (13/13 pruebas sintéticas). No se contactó ni automatizó ChatGPT. Próxima H0.06; H1 real bloqueado.
