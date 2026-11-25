@@ -6,3 +6,6 @@ Antecedentes preliminares en RESEARCH.md; no auditados ni ejecutados. H0.01 pend
 
 ## 2026-11-25 — H0.01
 HEAD inicial verificado, documentos consistentes. Revisión oficial completada: extracción programática externa no autorizada prohibida expresamente; envío automático externo no establecido; uso humano normal permitido bajo términos. Exportación, enlaces, OAuth y tareas nativas no acreditan integración completa. Evidencia: [H0.01](evidence/H0.01.md). Decisión: no probar integración real; mantener objetivo, evaluar candidatos y vías parciales en H0.02/H0.03. Hipótesis nueva (no decisión de arquitectura): publicación deliberada de estados mínimos a destino privado autorizado por agentes, complementada con apertura manual del chat. Sin cambios de permisos, gastos o instalación. Criterio H0.01 cumplido; A-H0 pendiente hasta H0.03.
+
+## 2026-11-25 — publicación y reactivación
+Usuario favorable a explorar publicación voluntaria de resúmenes. Consulta por triggers y copy/paste; revisión oficial adicional registrada en RESEARCH.md. Se incorporan Sites/plugins, conectores existentes y tareas nativas en proyectos como candidatos, y apertura/copia con envío humano. No se autoriza integración automática externa, no se instala ni se crea tarea, no se sustituye objetivo. H0.02 sigue pendiente.

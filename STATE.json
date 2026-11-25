@@ -15,7 +15,8 @@
   "audits": [],
   "decisions": [
     "LOG.md#2026-11-25--inicialización",
-    "LOG.md#2026-11-25--h001"
+    "LOG.md#2026-11-25--h001",
+    "LOG.md#2026-11-25--publicación-y-reactivación"
   ],
   "blockers": [
     "Integración real: extracción automática/programática de respuestas no autorizada prohibida por términos; permiso de envío externo no establecido. H0 documental puede continuar."
@@ -26,11 +27,11 @@
   ],
   "next_action": {
     "task": "H0.02",
-    "description": "Auditar candidatos de RESEARCH.md a nivel de documentación y código público, sin instalación ni interacción real; verificar alcance, permisos y brechas.",
+    "description": "Auditar candidatos de RESEARCH.md a nivel de documentación y código público, sin instalación ni interacción real; verificar alcance, permisos y brechas. Incluir publicación voluntaria vía conectores/Sites, tareas nativas en proyecto y asistencia manual de apertura/copia.",
     "expected_evidence": "evidence/H0.02.md",
     "acceptance": "PLAN.md#primer-tramo"
   },
-  "last_confirmed_base": "e6dc7f143f31f7363a07591380dadcc98127d28c",
-  "last_change": "H0.01 completada documentalmente; restricción de integración real registrada; siguiente H0.02",
+  "last_confirmed_base": "d741881a5a7e14c9a23b38bd35017e1b565432f4",
+  "last_change": "Aclaración del usuario y candidatos oficiales adicionales; H0.02 sigue pendiente",
   "updated_at": "2026-11-25"
 }
