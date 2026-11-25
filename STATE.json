@@ -21,7 +21,7 @@
   ],
   "blockers": [
     "Integración real: extracción automática/programática de respuestas no autorizada prohibida por términos; permiso de envío externo no establecido. H0 documental puede continuar.",
-    "Ensayo de tarea nativa: creación rechazada por límite de tareas activas; requiere plaza disponible, no modificar tareas existentes sin autorización."
+    "Envío directo desde Site a chat normal existente: mecanismo oficial no establecido; intento de tarea nativa rechazado, además descartado por el usuario para esta prueba."
   ],
   "risks": [
     "No se ha identificado vía oficial que cumpla R1–R4 simultáneamente",
@@ -30,11 +30,11 @@
   ],
   "next_action": {
     "task": "H0.02",
-    "description": "Auditar candidatos de RESEARCH.md a nivel de documentación y código público, sin instalación ni interacción real; verificar alcance, permisos y brechas. Incluir publicación voluntaria vía conectores/Sites, tareas nativas en proyecto y asistencia manual de apertura/copia.",
+    "description": "Auditar candidatos de RESEARCH.md a nivel de documentación y código público, sin instalación ni interacción real; verificar alcance, permisos y brechas. Incluir publicación voluntaria vía conectores/Sites, asistencia manual de apertura/copia. No crear automatizaciones para probar envío directo.",
     "expected_evidence": "evidence/H0.02.md",
     "acceptance": "PLAN.md#primer-tramo"
   },
-  "last_confirmed_base": "72ee2e4e6f10c734c0e05185fc24ad37682b33cb",
-  "last_change": "Intento de prueba nativa de continuidad rechazado por límite de tareas; H0.02 documental sigue pendiente",
+  "last_confirmed_base": "1c6959b036a69bea7c96e528d5ffd42c5f303c31",
+  "last_change": "Aclarado alcance: envío directo desde Sites sin tareas; revisión de MCP UI y eventos, sin ejecución",
   "updated_at": "2026-11-25"
 }

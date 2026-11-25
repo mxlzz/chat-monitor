@@ -15,3 +15,6 @@ A petición del usuario, revisión oficial de Sites y MCP alojado. Viabilidad do
 
 ## 2026-11-25 — intento de prueba nativa
 A petición del usuario se intentó programar una prueba sintética única de recuperación de contexto. Rechazada por límite de tareas activas; sin tarea creada ni ejecución. Ver anexo Sites. No se modificaron tareas existentes. H0.02 documental puede continuar.
+
+## 2026-11-25 — envío directo desde Sites
+El usuario descarta prueba con automatizaciones: requiere envío directo a chats monitoreados. Se revisaron contratos oficiales de Sites, MCP Events y MCP UI; seguimiento embebido en conversación anfitriona es candidato parcial, no se documenta envío a otro chat normal arbitrario. Sin prueba real ni modificación de tareas. Ver anexo Sites.
