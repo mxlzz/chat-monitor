@@ -27,3 +27,6 @@ El usuario considera favorable explorar publicación voluntaria de resúmenes po
 
 ## Anexo Sites
 [Evaluación y prueba mínima propuesta](evidence/H0.02-sites.md). Candidato preferente provisional para publicación voluntaria y dashboard privado; MCP Events no se aplica a chats normales. No adoptar arquitectura ni ejecutar pruebas sin cerrar puerta de viabilidad y aprobar alcance parcial.
+
+## Anexo de envío local
+[ChatCMD Bridge, ChatSequel, Atajos, Edge y Tailscale](evidence/H0.02-local-send.md). Separar publicación voluntaria de resúmenes y continuación. No confundir licencia de código, capacidad de extensión o gesto remoto del usuario con autorización del servicio. Comparar apertura/copia manual y acceso remoto humano; envío programático sigue sin permiso establecido.

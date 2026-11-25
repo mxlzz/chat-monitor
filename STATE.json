@@ -11,7 +11,8 @@
   ],
   "evidence": [
     "evidence/H0.01.md",
-    "evidence/H0.02-sites.md"
+    "evidence/H0.02-sites.md",
+    "evidence/H0.02-local-send.md"
   ],
   "audits": [],
   "decisions": [
@@ -30,11 +31,11 @@
   ],
   "next_action": {
     "task": "H0.02",
-    "description": "Auditar candidatos de RESEARCH.md a nivel de documentación y código público, sin instalación ni interacción real; verificar alcance, permisos y brechas. Incluir publicación voluntaria vía conectores/Sites, asistencia manual de apertura/copia. No crear automatizaciones para probar envío directo.",
+    "description": "Auditar candidatos de RESEARCH.md a nivel de documentación y código público, sin instalación ni interacción real; verificar alcance, permisos y brechas. Incluir publicación voluntaria vía conectores/Sites, asistencia manual de apertura/copia. No crear automatizaciones para probar envío directo. Completar comparación documental restante, incluyendo acceso remoto humano; no probar envío programático sin permiso establecido.",
     "expected_evidence": "evidence/H0.02.md",
     "acceptance": "PLAN.md#primer-tramo"
   },
-  "last_confirmed_base": "65aa0b318907a600ead0d3ff9b39eb651aa8a243",
-  "last_change": "Contraste documental con revisión desde Sites; envío directo sigue bloqueado, H0.02 pendiente",
+  "last_confirmed_base": "5b367fdc84200192301bab374d21cbf5a87e9a26",
+  "last_change": "Anexo de envío local: ChatCMD, ChatSequel, Atajos, Edge y Tailscale contrastados documentalmente; H0.02 pendiente",
   "updated_at": "2026-11-25"
 }

@@ -21,3 +21,6 @@ El usuario descarta prueba con automatizaciones: requiere envío directo a chats
 
 ## 2026-11-25 — contraste de investigación desde Sites
 Usuario aportó revisión documental externa a esta conversación: no hay mecanismo oficial identificado de envío directo a chat normal por URL/ID; no hubo prototipo ni envío. Contraste con documentación primaria en anexo Sites. Se mantiene bloqueo de envío y se preserva Sites como candidato parcial. H0.02 pendiente.
+
+## 2026-11-25 — alternativas de envío local
+Se contrastó propuesta aportada por usuario de panel privado + extensión Edge. Verificados README, MIT y manifest de ChatCMD a revisión fijada; incluye extracción de contenido, no adoptar íntegramente. Ficha de ChatSequel, capacidades de Atajos y Tailscale verificadas documentalmente. [Evidencia](evidence/H0.02-local-send.md). No se ha establecido permiso de envío externo ni comprobado funcionamiento; no se instaló nada ni cambió objetivo. H0.02 global pendiente.
