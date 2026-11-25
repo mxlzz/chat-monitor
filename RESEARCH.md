@@ -40,3 +40,5 @@ El usuario considera favorable explorar publicación voluntaria de resúmenes po
 [H0.04](evidence/H0.04.md): MultiChat no tiene envío ni remoto; atención heurística lee respuestas. Consultar autorización específica.
 
 [H0.05](evidence/H0.05.md): reportes deliberados publicados por agentes en GitHub, no extraer respuestas. 13 pruebas sintéticas pasaron; no transporte real.
+
+Prioridad confirmada por usuario: el mecanismo de envío es condición previa. Diferir contrato de reportes y dashboard; no repetir búsquedas equivalentes ni pruebas sintéticas ajenas a esta condición. Ver PLAN y STATE.

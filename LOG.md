@@ -36,3 +36,6 @@ Usuario prioriza envío directo y automático. H0.04 inspección focalizada, sin
 
 ## 2026-11-25 — alcance de envío y ensayo
 Usuario reafirma no extracción, avances vía GitHub y objetivo de reducir fricción de tres chats sin incremento previsto de mensajes. Autoriza proceder; autorización del servicio no establecida. Se recupera commit H0.04 como ancestro, se añade H0.05 (13/13 pruebas sintéticas). No se contactó ni automatizó ChatGPT. Próxima H0.06; H1 real bloqueado.
+
+## 2026-11-25 — envío como condición previa
+Usuario considera indispensable resolver mecanismo de envío antes de cualquier otro desarrollo. Se suspende H0.06 (no iniciada) y se retorna a H0.04.PERMISSION; se conserva H0.05 como ensayo sintético. Orden de pruebas condicionado a permiso del servicio: envío local a pedido, envío remoto, continuación automática. No se hicieron pruebas reales ni instalaciones. Objetivo original intacto. Estado BLOCKED por permiso de envío no establecido; no avanzar en tareas secundarias.

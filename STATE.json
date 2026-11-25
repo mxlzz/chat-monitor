@@ -3,9 +3,9 @@
   "project": "chat-monitor",
   "objective": "OBJECTIVE.md",
   "plan": "PLAN.md",
-  "status": "ready",
+  "status": "blocked",
   "milestone": "H0",
-  "task": "H0.06",
+  "task": "H0.04.PERMISSION",
   "completed_tasks": [
     "H0.01",
     "H0.02",
@@ -32,10 +32,12 @@
     "LOG.md#2026-11-25--publicación-y-reactivación",
     "LOG.md#2026-11-25--cierre-h0",
     "LOG.md#2026-11-25--rechazo-de-prototipo-parcial",
-    "LOG.md#2026-11-25--alcance-de-envio-y-ensayo"
+    "LOG.md#2026-11-25--alcance-de-envio-y-ensayo",
+    "LOG.md#2026-11-25--envío-como-condición-previa"
   ],
   "blockers": [
-    "Integración real H1: autorización del servicio para envío externo no establecida; no extraer respuestas ni automatizar sesión real. Ensayos sintéticos independientes pueden continuar."
+    "Condición prioritaria del usuario: no avanzar en dashboard, contratos de reportes ni otros componentes hasta validar envío directo y automático.",
+    "H1 real bloqueado: no se ha establecido permiso aplicable del servicio para envío externo sin extracción. No se autoriza integración real antes de acreditarlo."
   ],
   "risks": [
     "No se ha identificado vía oficial que cumpla R1–R4 simultáneamente",
@@ -43,12 +45,12 @@
     "Sites: disponibilidad del plugin en chats existentes y confirmaciones de escritura no probadas; R4 sigue sin solución"
   ],
   "next_action": {
-    "task": "H0.06",
-    "description": "Validar contrato de reportes GitHub con datos sintéticos y correlación de turnos; definir separación de transporte, sin extracción ni interacción real. H0.04.PERMISSION sigue abierta.",
-    "expected_evidence": "evidence/H0.06.md",
-    "acceptance": "Fixtures verificadas, reportes obsoletos y READY sin fin confirmado no disparan envío; no leer chats ni publicar datos privados."
+    "task": "H0.04.PERMISSION",
+    "description": "Aclarar permiso aplicable para envío externo a pedido y automático sin extracción. Si se establece, reevaluar A-H0 y verificar primero envío local a pedido a un chat de prueba existente, luego envío remoto desde iPhone y luego continuación automática, separando cada aceptación y sin ampliar alcance. H0.06 diferida hasta resolver envío.",
+    "expected_evidence": "evidence/H0.04-permission.md",
+    "acceptance": "Evidencia aplicable del servicio por operación; después recepción única verificada en conversación original, primero local, luego remota y automática, sin extracción ni elusión."
   },
-  "last_confirmed_base": "36cb409f2b9567f6c8805bfb5860233bf3951bc1",
-  "last_change": "Recuperación de H0.04 y autorización de usuario; H0.05 13/13 pruebas sintéticas; H0.06 pendiente.",
+  "last_confirmed_base": "433f1cef66caa27e038d1011ca5ac08c45c518b5",
+  "last_change": "Usuario establece envío como condición indispensable; diferida H0.06; se prioriza aclaración y validación de transporte.",
   "updated_at": "2026-11-25"
 }

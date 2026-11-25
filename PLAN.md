@@ -22,3 +22,6 @@ Usuario rechaza alcance parcial. Inspección MultiChat y aclaración oficial de 
 
 ## H0.05–06 — Verificación sintética acotada
 Usuario autoriza avanzar, sin extracción, con reportes GitHub. H0.05: probar política de continuación en tres chats ficticios. H0.06: contrato de reportes GitHub y correlación sintética de identidad/turno; transporte separado. No H1 ni pruebas reales sin permiso aplicable; H0.04.PERMISSION permanece abierta.
+
+## Prioridad de envío (2026-11-25)
+Decisión explícita del usuario: suspender H0.06, dashboard y desarrollo de componentes secundarios hasta resolver envío directo y automático. Conservar H0.05 como evidencia sintética, no confundirla con transporte validado. Retomar H0.04.PERMISSION, sin relajar puerta de autorización de OBJECTIVE/METHODOLOGY. Una vez establecida autorización aplicable y reevaluada A-H0, verificar secuencialmente (1) envío local a pedido, (2) envío remoto desde iPhone, (3) continuación automática opt-in tras finalización confirmada, con chats de prueba existentes designados y sin extracción; no iniciar paso siguiente si falla el previo. Validar identidad, entrega única, ausencia de interferencia con borradores y detención ante error, respetar límites. No seleccionar stack antes de evidencia. Si no se establece permiso, mantener bloqueo y no avanzar en otros componentes.
