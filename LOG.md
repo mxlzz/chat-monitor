@@ -42,3 +42,6 @@ Usuario considera indispensable resolver mecanismo de envío antes de cualquier 
 
 ## 2026-11-25 — exploración focalizada de envío
 Usuario autoriza exploración y observa ausencia de prohibición explícita de envío. Reconsulta de términos y especificación oficial MCP confirma destino active/new, instancias de plugin por conversación y límites de plataforma; sin selector arbitrario ni autorización de envío externo/desatendido establecida. Ver anexo oficial. No prueba real, instalación ni contacto a soporte. Se conserva bloqueo y prioridad exclusiva de envío.
+
+## 2026-11-25 — entorno de pruebas GitHub
+Se verifica disponibilidad y límites de GitHub Actions para pruebas aisladas. Runner alojado no tiene sesión del usuario; runner propio en repositorio público desaconsejado por GitHub. No se crea workflow ni se ejecuta otro simulador; próxima evidencia útil exige host ChatGPT de prueba. Ver anexo oficial. H1 continúa bloqueado; objetivo intacto.
