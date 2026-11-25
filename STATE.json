@@ -20,7 +20,8 @@
     "LOG.md#2026-11-25--publicación-y-reactivación"
   ],
   "blockers": [
-    "Integración real: extracción automática/programática de respuestas no autorizada prohibida por términos; permiso de envío externo no establecido. H0 documental puede continuar."
+    "Integración real: extracción automática/programática de respuestas no autorizada prohibida por términos; permiso de envío externo no establecido. H0 documental puede continuar.",
+    "Ensayo de tarea nativa: creación rechazada por límite de tareas activas; requiere plaza disponible, no modificar tareas existentes sin autorización."
   ],
   "risks": [
     "No se ha identificado vía oficial que cumpla R1–R4 simultáneamente",
@@ -33,7 +34,7 @@
     "expected_evidence": "evidence/H0.02.md",
     "acceptance": "PLAN.md#primer-tramo"
   },
-  "last_confirmed_base": "b264f01308131fb03a5e19ca9cdac839e81123e6",
-  "last_change": "Anexo documental de Sites completado; H0.02 continúa",
+  "last_confirmed_base": "72ee2e4e6f10c734c0e05185fc24ad37682b33cb",
+  "last_change": "Intento de prueba nativa de continuidad rechazado por límite de tareas; H0.02 documental sigue pendiente",
   "updated_at": "2026-11-25"
 }

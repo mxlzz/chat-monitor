@@ -12,3 +12,6 @@ Usuario favorable a explorar publicación voluntaria de resúmenes. Consulta por
 
 ## 2026-11-25 — H0.02 anexo Sites
 A petición del usuario, revisión oficial de Sites y MCP alojado. Viabilidad documental de dashboard privado y publicación voluntaria de estados desde chats; soporte concreto, permisos y dispositivos no probados. Continuación automática desde Site no establecida; tareas nativas candidatas limitadas. Evidencia [H0.02-sites](evidence/H0.02-sites.md). No se creó Site ni se cambió objetivo; H0.02 sigue pendiente.
+
+## 2026-11-25 — intento de prueba nativa
+A petición del usuario se intentó programar una prueba sintética única de recuperación de contexto. Rechazada por límite de tareas activas; sin tarea creada ni ejecución. Ver anexo Sites. No se modificaron tareas existentes. H0.02 documental puede continuar.
