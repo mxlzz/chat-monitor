@@ -3,7 +3,7 @@
   "project": "chat-monitor",
   "objective": "OBJECTIVE.md",
   "plan": "PLAN.md",
-  "status": "blocked",
+  "status": "waiting",
   "milestone": "H0",
   "task": "H0.04.PERMISSION",
   "completed_tasks": [
@@ -22,7 +22,8 @@
     "evidence/H0.03.md",
     "evidence/H0.04.md",
     "evidence/H0.05.md",
-    "evidence/H0.04-official-send.md"
+    "evidence/H0.04-official-send.md",
+    "evidence/H0.04-private-widget.md"
   ],
   "audits": [
     "audits/A-H0.md"
@@ -37,8 +38,8 @@
     "LOG.md#2026-11-25--envío-como-condición-previa"
   ],
   "blockers": [
-    "Usuario exige validar envío directo y automático antes de componentes secundarios.",
-    "Sin autorización aplicable establecida para envío externo/desatendido sin extracción; ui/message oficial solo destino activo/nuevo, instancia de chat normal y remoto sin validar. Autoría/despliegue Sites no disponible en entorno actual."
+    "Ensayo manual pendiente de confirmar presencia/conexión de Continúa en Plugins personales y de probarlo en un chat normal existente designado.",
+    "Sin autorización aplicable establecida para envío externo o desatendido. H1 general continúa bloqueado."
   ],
   "risks": [
     "No se ha identificado vía oficial que cumpla R1–R4 simultáneamente",
@@ -47,11 +48,11 @@
   ],
   "next_action": {
     "task": "H0.04.PERMISSION",
-    "description": "Priorizar prueba focalizada de ui/message en host de chat normal existente con plugin privado y gesto humano; requiere entorno de autoría y acceso del usuario. GitHub para código/evidencia y CI aislado, no sesión real. Aclarar permiso de extensión externa y ejecución automática antes de H1; H0.06 y dashboard suspendidos.",
-    "expected_evidence": "evidence/H0.04-permission.md",
-    "acceptance": "Evidencia aplicable del servicio por operación; después recepción única verificada en conversación original, primero local, luego remota y automática, sin extracción ni elusión."
+    "description": "Completar exclusivamente la prueba privada: verificar presencia/conexión del plugin Continúa y accionar su botón una vez en un chat normal de prueba existente.",
+    "expected_evidence": "evidence/H0.04-private-widget.md",
+    "acceptance": "Un único mensaje con texto exacto «Continúa» aparece en el chat anfitrión existente, sin abrir otro. Una UI no disponible, borrador, rechazo o resultado incierto no cumple el criterio."
   },
-  "last_confirmed_base": "de63b0a5042fe267df17c8c7b0d864125d2fe951",
-  "last_change": "Evaluados runners de GitHub: CI aislado sí; prueba de chat real requiere host autorizado y sesión local, no runner público.",
+  "last_confirmed_base": "bdf0c98da122e869833539cbbe7beaff161ce510",
+  "last_change": "Servidor MCP privado publicado y verificado; instalación, renderizado y envío en chat normal sin confirmar.",
   "updated_at": "2026-11-25"
 }

@@ -45,3 +45,6 @@ Usuario autoriza exploración y observa ausencia de prohibición explícita de e
 
 ## 2026-11-25 — entorno de pruebas GitHub
 Se verifica disponibilidad y límites de GitHub Actions para pruebas aisladas. Runner alojado no tiene sesión del usuario; runner propio en repositorio público desaconsejado por GitHub. No se crea workflow ni se ejecuta otro simulador; próxima evidencia útil exige host ChatGPT de prueba. Ver anexo oficial. H1 continúa bloqueado; objetivo intacto.
+
+## 2026-11-25 — widget privado de envío
+Se implementó la invocación oficial desde un botón de un solo uso en un recurso MCP y se publicó su servidor en Sites, con acceso exclusivo del propietario. Pasaron comprobaciones locales de recurso y sintaxis. La conexión no entregó identificador de plugin para instalar desde este entorno y la vista de Plugins del navegador no tenía sesión. El envío real queda pendiente de la conexión y pulsación en un chat normal de prueba existente. [Evidencia](evidence/H0.04-private-widget.md).
