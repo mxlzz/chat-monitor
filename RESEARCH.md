@@ -42,3 +42,5 @@ El usuario considera favorable explorar publicación voluntaria de resúmenes po
 [H0.05](evidence/H0.05.md): reportes deliberados publicados por agentes en GitHub, no extraer respuestas. 13 pruebas sintéticas pasaron; no transporte real.
 
 Prioridad confirmada por usuario: el mecanismo de envío es condición previa. Diferir contrato de reportes y dashboard; no repetir búsquedas equivalentes ni pruebas sintéticas ajenas a esta condición. Ver PLAN y STATE.
+
+[H0.04 — Contrato oficial](evidence/H0.04-official-send.md): ui/message formalmente admite active/new; thread entrypoint es instancia por conversación abierta manualmente. Explorar solo si se puede probar transporte por vía documentada; no asumir remoto/desatendido.

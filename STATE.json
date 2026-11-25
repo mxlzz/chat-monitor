@@ -21,7 +21,8 @@
     "evidence/H0.02.md",
     "evidence/H0.03.md",
     "evidence/H0.04.md",
-    "evidence/H0.05.md"
+    "evidence/H0.05.md",
+    "evidence/H0.04-official-send.md"
   ],
   "audits": [
     "audits/A-H0.md"
@@ -36,8 +37,8 @@
     "LOG.md#2026-11-25--envío-como-condición-previa"
   ],
   "blockers": [
-    "Condición prioritaria del usuario: no avanzar en dashboard, contratos de reportes ni otros componentes hasta validar envío directo y automático.",
-    "H1 real bloqueado: no se ha establecido permiso aplicable del servicio para envío externo sin extracción. No se autoriza integración real antes de acreditarlo."
+    "Usuario exige validar envío directo y automático antes de componentes secundarios.",
+    "Sin autorización aplicable establecida para envío externo/desatendido sin extracción; ui/message oficial solo destino activo/nuevo, instancia de chat normal y remoto sin validar. Autoría/despliegue Sites no disponible en entorno actual."
   ],
   "risks": [
     "No se ha identificado vía oficial que cumpla R1–R4 simultáneamente",
@@ -46,11 +47,11 @@
   ],
   "next_action": {
     "task": "H0.04.PERMISSION",
-    "description": "Aclarar permiso aplicable para envío externo a pedido y automático sin extracción. Si se establece, reevaluar A-H0 y verificar primero envío local a pedido a un chat de prueba existente, luego envío remoto desde iPhone y luego continuación automática, separando cada aceptación y sin ampliar alcance. H0.06 diferida hasta resolver envío.",
+    "description": "Resolver exclusivamente mecanismo de envío. Contrastar permiso específico de extensión externa sin extracción y, como hipótesis oficial focalizada, validar ui/message en instancia de plugin de chat normal existente cuando el entorno de autoría esté disponible. No asumir soporte remoto/desatendido. Si se acredita mecanismo/permiso, reevaluar A-H0 y verificar local, remoto y automático en ese orden. H0.06 y dashboard suspendidos.",
     "expected_evidence": "evidence/H0.04-permission.md",
     "acceptance": "Evidencia aplicable del servicio por operación; después recepción única verificada en conversación original, primero local, luego remota y automática, sin extracción ni elusión."
   },
-  "last_confirmed_base": "433f1cef66caa27e038d1011ca5ac08c45c518b5",
-  "last_change": "Usuario establece envío como condición indispensable; diferida H0.06; se prioriza aclaración y validación de transporte.",
+  "last_confirmed_base": "a47f52c74770d1fd13114b1121b14dd6c5ba23b5",
+  "last_change": "Reconsulta y contraste formal de ui/message e instancias por thread; permiso para extensión externa y ejecución desatendida no establecido.",
   "updated_at": "2026-11-25"
 }

@@ -39,3 +39,6 @@ Usuario reafirma no extracción, avances vía GitHub y objetivo de reducir fricc
 
 ## 2026-11-25 — envío como condición previa
 Usuario considera indispensable resolver mecanismo de envío antes de cualquier otro desarrollo. Se suspende H0.06 (no iniciada) y se retorna a H0.04.PERMISSION; se conserva H0.05 como ensayo sintético. Orden de pruebas condicionado a permiso del servicio: envío local a pedido, envío remoto, continuación automática. No se hicieron pruebas reales ni instalaciones. Objetivo original intacto. Estado BLOCKED por permiso de envío no establecido; no avanzar en tareas secundarias.
+
+## 2026-11-25 — exploración focalizada de envío
+Usuario autoriza exploración y observa ausencia de prohibición explícita de envío. Reconsulta de términos y especificación oficial MCP confirma destino active/new, instancias de plugin por conversación y límites de plataforma; sin selector arbitrario ni autorización de envío externo/desatendido establecida. Ver anexo oficial. No prueba real, instalación ni contacto a soporte. Se conserva bloqueo y prioridad exclusiva de envío.
