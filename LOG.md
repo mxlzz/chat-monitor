@@ -9,3 +9,6 @@ HEAD inicial verificado, documentos consistentes. Revisión oficial completada: 
 
 ## 2026-11-25 — publicación y reactivación
 Usuario favorable a explorar publicación voluntaria de resúmenes. Consulta por triggers y copy/paste; revisión oficial adicional registrada en RESEARCH.md. Se incorporan Sites/plugins, conectores existentes y tareas nativas en proyectos como candidatos, y apertura/copia con envío humano. No se autoriza integración automática externa, no se instala ni se crea tarea, no se sustituye objetivo. H0.02 sigue pendiente.
+
+## 2026-11-25 — H0.02 anexo Sites
+A petición del usuario, revisión oficial de Sites y MCP alojado. Viabilidad documental de dashboard privado y publicación voluntaria de estados desde chats; soporte concreto, permisos y dispositivos no probados. Continuación automática desde Site no establecida; tareas nativas candidatas limitadas. Evidencia [H0.02-sites](evidence/H0.02-sites.md). No se creó Site ni se cambió objetivo; H0.02 sigue pendiente.

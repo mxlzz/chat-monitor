@@ -10,7 +10,8 @@
     "H0.01"
   ],
   "evidence": [
-    "evidence/H0.01.md"
+    "evidence/H0.01.md",
+    "evidence/H0.02-sites.md"
   ],
   "audits": [],
   "decisions": [
@@ -23,7 +24,8 @@
   ],
   "risks": [
     "No se ha identificado vía oficial que cumpla R1–R4 simultáneamente",
-    "Repositorio público: no publicar datos privados"
+    "Repositorio público: no publicar datos privados",
+    "Sites: disponibilidad del plugin en chats existentes y confirmaciones de escritura no probadas; R4 sigue sin solución"
   ],
   "next_action": {
     "task": "H0.02",
@@ -31,7 +33,7 @@
     "expected_evidence": "evidence/H0.02.md",
     "acceptance": "PLAN.md#primer-tramo"
   },
-  "last_confirmed_base": "d741881a5a7e14c9a23b38bd35017e1b565432f4",
-  "last_change": "Aclaración del usuario y candidatos oficiales adicionales; H0.02 sigue pendiente",
+  "last_confirmed_base": "b264f01308131fb03a5e19ca9cdac839e81123e6",
+  "last_change": "Anexo documental de Sites completado; H0.02 continúa",
   "updated_at": "2026-11-25"
 }
