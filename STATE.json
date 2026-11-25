@@ -12,7 +12,8 @@
   "evidence": [
     "evidence/H0.01.md",
     "evidence/H0.02-sites.md",
-    "evidence/H0.02-local-send.md"
+    "evidence/H0.02-local-send.md",
+    "evidence/H0.02-gap-analysis.md"
   ],
   "audits": [],
   "decisions": [
@@ -31,11 +32,11 @@
   ],
   "next_action": {
     "task": "H0.02",
-    "description": "Auditar candidatos de RESEARCH.md a nivel de documentación y código público, sin instalación ni interacción real; verificar alcance, permisos y brechas. Incluir publicación voluntaria vía conectores/Sites, asistencia manual de apertura/copia. No crear automatizaciones para probar envío directo. Completar comparación documental restante, incluyendo acceso remoto humano; no probar envío programático sin permiso establecido.",
+    "description": "Auditar candidatos de RESEARCH.md a nivel de documentación y código público, sin instalación ni interacción real; verificar alcance, permisos y brechas. Incluir publicación voluntaria vía conectores/Sites, asistencia manual de apertura/copia. No crear automatizaciones para probar envío directo. Completar comparación documental restante, incluyendo acceso remoto humano; no probar envío programático sin permiso establecido. Cerrar candidatos restantes (MultiChat Monitor, WebUI Bridge, Chat Alert, RustDesk y conectores pertinentes) antes de H0.03.",
     "expected_evidence": "evidence/H0.02.md",
     "acceptance": "PLAN.md#primer-tramo"
   },
-  "last_confirmed_base": "5b367fdc84200192301bab374d21cbf5a87e9a26",
-  "last_change": "Anexo de envío local: ChatCMD, ChatSequel, Atajos, Edge y Tailscale contrastados documentalmente; H0.02 pendiente",
+  "last_confirmed_base": "62993dff7bd764475f77689457c3a438ce2b0920",
+  "last_change": "Inspección estática ChatCMD, brechas R1–R6 y túneles Sites; H0.02 global pendiente",
   "updated_at": "2026-11-25"
 }

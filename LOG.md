@@ -24,3 +24,6 @@ Usuario aportó revisión documental externa a esta conversación: no hay mecani
 
 ## 2026-11-25 — alternativas de envío local
 Se contrastó propuesta aportada por usuario de panel privado + extensión Edge. Verificados README, MIT y manifest de ChatCMD a revisión fijada; incluye extracción de contenido, no adoptar íntegramente. Ficha de ChatSequel, capacidades de Atajos y Tailscale verificadas documentalmente. [Evidencia](evidence/H0.02-local-send.md). No se ha establecido permiso de envío externo ni comprobado funcionamiento; no se instaló nada ni cambió objetivo. H0.02 global pendiente.
+
+## 2026-11-25 — inspección y brechas de alternativas
+Inspección estática fijada de ChatCMD confirma registro por captura nativa y pruebas declaradas en código; no se ejecutaron. Comparación focalizada de ChatCMD, ChatSequel, Atajos, Sites y escritorio remoto. Documentación de túneles Sites limita disponibilidad a Enterprise elegible. [Evidencia](evidence/H0.02-gap-analysis.md). Mantener bloqueo de envío externo, no adoptar stack ni instalar. H0.02 global pendiente.

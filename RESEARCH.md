@@ -30,3 +30,6 @@ El usuario considera favorable explorar publicación voluntaria de resúmenes po
 
 ## Anexo de envío local
 [ChatCMD Bridge, ChatSequel, Atajos, Edge y Tailscale](evidence/H0.02-local-send.md). Separar publicación voluntaria de resúmenes y continuación. No confundir licencia de código, capacidad de extensión o gesto remoto del usuario con autorización del servicio. Comparar apertura/copia manual y acceso remoto humano; envío programático sigue sin permiso establecido.
+
+## Brechas e inspección ChatCMD
+[Anexo](evidence/H0.02-gap-analysis.md): código confirma registro de turnos nativos por captura, soporte de identidad y proyectos; alta manual por URL no confirmada. Túneles oficiales Sites documentados para Enterprise elegible, no asumir en Plus. Tailscale Serve no une automáticamente Site cloud con PC. Comparación preliminar R1–R6; no se autoriza envío automatizado.
