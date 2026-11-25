@@ -16,3 +16,6 @@ El objetivo estable está en OBJECTIVE.md. No comenzar integración real hasta p
 - H0.02: revisar los candidatos de RESEARCH.md; registrar revisión/commit, licencia, actividad, arquitectura, permisos, datos tratados, riesgos y pruebas declaradas. Resultado evidence/H0.02.md. Aceptación: evidencia de fuente primaria por candidato o constancia de inaccesibilidad; distinguir documentación de implementación.
 - H0.03: comparación por R1–R6, coste, complejidad, mantenimiento, seguridad y permiso; decisión adoptar/adaptar/combinar/desarrollar o bloquear, con criterios de descarte. Resultado evidence/H0.03.md; auditoría audits/A-H0.md. No continuar H1 si la vía no está autorizada.
 Los hitos posteriores se desglosan al cerrar el anterior. Si una línea resulta improductiva, registrar y cortar; no ampliar indefinidamente búsquedas.
+
+## H0.04 — Reapertura focalizada
+Usuario rechaza alcance parcial. Inspección MultiChat y aclaración oficial de permisos de envío a pedido y automático sin extracción. Reevaluar A-H0 antes de H1; no iniciar integración real sin permiso.

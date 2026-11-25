@@ -30,3 +30,6 @@ Inspección estática fijada de ChatCMD confirma registro por captura nativa y p
 
 ## 2026-11-25 — cierre H0
 Aprobada la continuación del análisis, se completó revisión documental de candidatos restantes y evaluación H0.03. Autoevaluación A-H0 acepta cierre de investigación con resultado negativo para integración completa; no acredita permiso ni ensayo funcional. Recomendación parcial Sites + publicación voluntaria + apertura/copia manual; R3 directo y R4 sin resolver. No cambiar objetivo ni iniciar H1 sin aprobación de rama parcial. Estado WAITING, H0.DECISION. No se instalaron herramientas, activaron automatizaciones ni enviaron mensajes.
+
+## 2026-11-25 — rechazo de prototipo parcial
+Usuario prioriza envío directo y automático. H0.04 inspección focalizada, sin pruebas reales. Siguiente: aclaración oficial de permisos; no se contactó soporte. H1 bloqueado. Objetivo intacto.

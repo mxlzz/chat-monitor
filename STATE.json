@@ -3,13 +3,14 @@
   "project": "chat-monitor",
   "objective": "OBJECTIVE.md",
   "plan": "PLAN.md",
-  "status": "waiting",
+  "status": "blocked",
   "milestone": "H0",
-  "task": "H0.DECISION",
+  "task": "H0.04.PERMISSION",
   "completed_tasks": [
     "H0.01",
     "H0.02",
-    "H0.03"
+    "H0.03",
+    "H0.04"
   ],
   "evidence": [
     "evidence/H0.01.md",
@@ -17,7 +18,8 @@
     "evidence/H0.02-local-send.md",
     "evidence/H0.02-gap-analysis.md",
     "evidence/H0.02.md",
-    "evidence/H0.03.md"
+    "evidence/H0.03.md",
+    "evidence/H0.04.md"
   ],
   "audits": [
     "audits/A-H0.md"
@@ -26,11 +28,11 @@
     "LOG.md#2026-11-25--inicialización",
     "LOG.md#2026-11-25--h001",
     "LOG.md#2026-11-25--publicación-y-reactivación",
-    "LOG.md#2026-11-25--cierre-h0"
+    "LOG.md#2026-11-25--cierre-h0",
+    "LOG.md#2026-11-25--rechazo-de-prototipo-parcial"
   ],
   "blockers": [
-    "H1 completo bloqueado: permiso aplicable para envío externo no establecido; extracción programática sin autorización prohibida; no se identificó vía de continuación directa/automática para chats normales.",
-    "Aprobación de prototipo parcial Sites + publicación voluntaria + apertura/copia con envío humano pendiente."
+    "Usuario rechazó prototipo parcial. H1 bloqueado: falta autorización aplicable para envío externo a pedido y automático sin extracción."
   ],
   "risks": [
     "No se ha identificado vía oficial que cumpla R1–R4 simultáneamente",
@@ -38,12 +40,12 @@
     "Sites: disponibilidad del plugin en chats existentes y confirmaciones de escritura no probadas; R4 sigue sin solución"
   ],
   "next_action": {
-    "task": "H0.DECISION",
-    "description": "Solicitar decisión explícita sobre prototipo parcial H1-P; si aprobado formalizar rama y pruebas, sin cambiar objetivo original ni activar automatizaciones; si no, mantener bloqueo hasta evidencia nueva.",
-    "expected_evidence": "evidence/H0.03.md",
-    "acceptance": "Aprobación explícita de alcance parcial o decisión de pausar"
+    "task": "H0.04.PERMISSION",
+    "description": "Obtener aclaración oficial específica sobre envío externo a pedido y automático sin extracción; reevaluar H0 antes de pruebas.",
+    "expected_evidence": "evidence/H0.04-permission.md",
+    "acceptance": "Evidencia oficial específica por operación; silencio no autoriza."
   },
-  "last_confirmed_base": "0287300f64f7cb4edb9f18ae8edbf481c44d863d",
-  "last_change": "H0.02 y H0.03 cerrados documentalmente; A-H0 autoevaluación; H1 completo bloqueado; espera decisión de alcance parcial",
+  "last_confirmed_base": "36cb409f2b9567f6c8805bfb5860233bf3951bc1",
+  "last_change": "Rechazo de alcance parcial; H0.04 revisado; envío pendiente de aclaración oficial.",
   "updated_at": "2026-11-25"
 }

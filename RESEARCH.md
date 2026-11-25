@@ -36,3 +36,5 @@ El usuario considera favorable explorar publicación voluntaria de resúmenes po
 
 ## Cierre H0
 [Revisión consolidada](evidence/H0.02.md), [comparación y decisión](evidence/H0.03.md), [autoevaluación](audits/A-H0.md). Integración completa bloqueada. Prototipo parcial Sites + plugin + apertura/copia manual recomendado, pendiente de aprobación. No se adopta extensión ni se ejecuta prueba real.
+
+[H0.04](evidence/H0.04.md): MultiChat no tiene envío ni remoto; atención heurística lee respuestas. Consultar autorización específica.
