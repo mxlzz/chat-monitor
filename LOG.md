@@ -18,3 +18,6 @@ A petición del usuario se intentó programar una prueba sintética única de re
 
 ## 2026-11-25 — envío directo desde Sites
 El usuario descarta prueba con automatizaciones: requiere envío directo a chats monitoreados. Se revisaron contratos oficiales de Sites, MCP Events y MCP UI; seguimiento embebido en conversación anfitriona es candidato parcial, no se documenta envío a otro chat normal arbitrario. Sin prueba real ni modificación de tareas. Ver anexo Sites.
+
+## 2026-11-25 — contraste de investigación desde Sites
+Usuario aportó revisión documental externa a esta conversación: no hay mecanismo oficial identificado de envío directo a chat normal por URL/ID; no hubo prototipo ni envío. Contraste con documentación primaria en anexo Sites. Se mantiene bloqueo de envío y se preserva Sites como candidato parcial. H0.02 pendiente.

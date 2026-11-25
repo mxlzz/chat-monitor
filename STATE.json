@@ -34,7 +34,7 @@
     "expected_evidence": "evidence/H0.02.md",
     "acceptance": "PLAN.md#primer-tramo"
   },
-  "last_confirmed_base": "1c6959b036a69bea7c96e528d5ffd42c5f303c31",
-  "last_change": "Aclarado alcance: envío directo desde Sites sin tareas; revisión de MCP UI y eventos, sin ejecución",
+  "last_confirmed_base": "65aa0b318907a600ead0d3ff9b39eb651aa8a243",
+  "last_change": "Contraste documental con revisión desde Sites; envío directo sigue bloqueado, H0.02 pendiente",
   "updated_at": "2026-11-25"
 }
