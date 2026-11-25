@@ -13,3 +13,6 @@ Preselección del diseño, no auditoría de código ni prueba realizada. Las afi
 | API de conversaciones y MCP Events/Work | Alternativas examinadas en diseño | Excluidas como sustitutos de chats normales |
 
 Preguntas: ¿hay mecanismo oficialmente permitido para leer el último mensaje, detectar fin y enviar a un chat normal existente? ¿se permite la continuación automática? ¿cómo garantizar identidad, accesibilidad remota y control? ¿qué puede resolverse con soluciones existentes, sin desarrollar? No afirmar exhaustividad ni inventar capacidades. H0.01 documenta primero fuentes oficiales y permisos; H0.02 audita repositorios a nivel de lectura sin instalar; H0.03 compara alternativas y decide.
+
+## Resultado H0.01
+Ver [matriz y fuentes oficiales](evidence/H0.01.md). No hay permiso establecido para integración completa. Candidatos adicionales parciales a contrastar: publicación deliberada de estado mínimo mediante herramienta autorizada en destino privado (no extracción de conversaciones), tareas nativas dentro de su alcance y enlaces originales manuales. No se elige stack ni se modifica el objetivo. Auditoría de candidatos pendiente.

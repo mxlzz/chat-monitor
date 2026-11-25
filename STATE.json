@@ -5,25 +5,32 @@
   "plan": "PLAN.md",
   "status": "ready",
   "milestone": "H0",
-  "task": "H0.01",
-  "completed_tasks": [],
-  "evidence": [],
+  "task": "H0.02",
+  "completed_tasks": [
+    "H0.01"
+  ],
+  "evidence": [
+    "evidence/H0.01.md"
+  ],
   "audits": [],
   "decisions": [
-    "LOG.md#2026-11-25--inicialización"
+    "LOG.md#2026-11-25--inicialización",
+    "LOG.md#2026-11-25--h001"
   ],
-  "blockers": [],
+  "blockers": [
+    "Integración real: extracción automática/programática de respuestas no autorizada prohibida por términos; permiso de envío externo no establecido. H0 documental puede continuar."
+  ],
   "risks": [
-    "Permiso y viabilidad de lectura/envío automático en chats normales no establecidos",
+    "No se ha identificado vía oficial que cumpla R1–R4 simultáneamente",
     "Repositorio público: no publicar datos privados"
   ],
   "next_action": {
-    "task": "H0.01",
-    "description": "Revisar fuentes oficiales sobre permisos de lectura y envío en chats normales; producir matriz de cuatro operaciones",
-    "expected_evidence": "evidence/H0.01.md",
+    "task": "H0.02",
+    "description": "Auditar candidatos de RESEARCH.md a nivel de documentación y código público, sin instalación ni interacción real; verificar alcance, permisos y brechas.",
+    "expected_evidence": "evidence/H0.02.md",
     "acceptance": "PLAN.md#primer-tramo"
   },
-  "last_confirmed_base": "ba4e45c3a6aa55c8d2934f38bb662dda58bdb14d",
-  "last_change": "Inicialización documental; verificar commit de inicialización en HEAD/LOG al reanudar",
+  "last_confirmed_base": "e6dc7f143f31f7363a07591380dadcc98127d28c",
+  "last_change": "H0.01 completada documentalmente; restricción de integración real registrada; siguiente H0.02",
   "updated_at": "2026-11-25"
 }
