@@ -61,3 +61,6 @@ Revisión de envío a otro chat normal y restricciones reportadas de Browser Use
 ## 2026-11-26 — entrega manual verificada desde Work
 
 Una única acción de envío en el navegador de Work produjo el mensaje esperado en el chat existente designado. La autorización puntual quedó utilizada. El ensayo del complemento sigue pendiente. [Evidencia](evidence/H0.04-work-browser.md#ensayo-de-envío-a-pedido-desde-work).
+
+## 2026-11-26 — confirmación y reducción de fricción
+Usuario confirma envío desde Work. Propuesta de controlador dedicado por alias, sesión persistente documentada, prueba agrupada pendiente de autorización. Sin nuevo envío, sin automatización ni cambio de objetivo. Ver evidencia de Work. Priorizar transporte ya observado antes de retomar complemento.
