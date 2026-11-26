@@ -54,3 +54,6 @@ El usuario reportó ausencia en Creados por vos. Republicación privada exitosa 
 
 ## 2026-11-26 — ZIP para instalación manual
 Entregado complemento local. Verificado el archivo y su servidor MCP en ejecución fuera de ChatGPT. Queda pendiente instalarlo y medir el envío real. [Evidencia](evidence/H0.04-private-widget.md).
+
+## 2026-11-26 — Work/Codex como origen
+Revisión de envío a otro chat normal y restricciones reportadas de Browser Use. [Evidencia](evidence/H0.04-work-browser.md). Sin envío real.
