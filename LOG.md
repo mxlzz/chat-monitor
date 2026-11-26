@@ -64,3 +64,6 @@ Una única acción de envío en el navegador de Work produjo el mensaje esperado
 
 ## 2026-11-26 — confirmación y reducción de fricción
 Usuario confirma envío desde Work. Propuesta de controlador dedicado por alias, sesión persistente documentada, prueba agrupada pendiente de autorización. Sin nuevo envío, sin automatización ni cambio de objetivo. Ver evidencia de Work. Priorizar transporte ya observado antes de retomar complemento.
+
+## 2026-11-26 — investigación de activación de Work por eventos
+Verificado contrato oficial MCP Events, requisitos de callback y ciclo de suscripción. No se halló garantía específica de emisión desde Sites ni de uso de Cloud Browser en ejecución por evento. Consulta de fuentes de eventos en este entorno devolvió 404 antes de invocar acción. Definidas pruebas E1–E3 con aceptación separada; no Site creado, no suscripción, tarea ni mensaje. E1 requiere entorno de autoría de Sites/Work. Objetivo intacto. Estado WAITING.

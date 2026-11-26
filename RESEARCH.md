@@ -44,3 +44,5 @@ El usuario considera favorable explorar publicación voluntaria de resúmenes po
 Prioridad confirmada por usuario: el mecanismo de envío es condición previa. Diferir contrato de reportes y dashboard; no repetir búsquedas equivalentes ni pruebas sintéticas ajenas a esta condición. Ver PLAN y STATE.
 
 [H0.04 — Contrato oficial](evidence/H0.04-official-send.md): ui/message formalmente admite active/new; thread entrypoint es instancia por conversación abierta manualmente. Explorar solo si se puede probar transporte por vía documentada; no asumir remoto/desatendido.
+
+[H0.07](evidence/H0.07-mcp-events.md): MCP Events documenta suscripción y callback que activa Work; Sites aloja MCP, combinación de emisión/recepción aún no acreditada. Work a pedido observado; navegador en ejecución por evento no probado. E1 es prueba prioritaria.

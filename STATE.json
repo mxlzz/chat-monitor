@@ -5,13 +5,14 @@
   "plan": "PLAN.md",
   "status": "waiting",
   "milestone": "H0",
-  "task": "H0.04.PERMISSION",
+  "task": "H0.07.E1",
   "completed_tasks": [
     "H0.01",
     "H0.02",
     "H0.03",
     "H0.04",
-    "H0.05"
+    "H0.05",
+    "H0.07.DOC"
   ],
   "evidence": [
     "evidence/H0.01.md",
@@ -24,7 +25,8 @@
     "evidence/H0.05.md",
     "evidence/H0.04-official-send.md",
     "evidence/H0.04-private-widget.md",
-    "evidence/H0.04-work-browser.md"
+    "evidence/H0.04-work-browser.md",
+    "evidence/H0.07-mcp-events.md"
   ],
   "audits": [
     "audits/A-H0.md"
@@ -39,9 +41,9 @@
     "LOG.md#2026-11-25--envío-como-condición-previa"
   ],
   "blockers": [
-    "Falta validar envío agrupado y reutilización de sesión desde Work; requiere destinos de prueba y autorización específica.",
-    "Envío desatendido, permiso aplicable y finalización fiable siguen pendientes; H1 general bloqueado.",
-    "Widget privado no validado; ruta opcional, no prioritaria."
+    "E1: autoría/despliegue Sites y ejecución Work Cloud no disponibles en este chat; plugin Site anterior no instalable identificado.",
+    "No se verificó emisión de eventos desde Sites ni disponibilidad de navegador en Work activado por evento.",
+    "Envío desatendido y finalización confirmada siguen sin establecerse; H1 general bloqueado."
   ],
   "risks": [
     "No se ha identificado vía oficial que cumpla R1–R4 simultáneamente",
@@ -49,12 +51,12 @@
     "Sites: disponibilidad del plugin en chats existentes y confirmaciones de escritura no probadas; R4 sigue sin solución"
   ],
   "next_action": {
-    "task": "H0.04.PERMISSION",
-    "description": "Si el usuario aprueba el controlador Work, realizar ensayo a pedido agrupado en dos conversaciones de prueba existentes, incluida una de proyecto, usando sesión Cloud Browser y autorización expresa para una entrega por destino. Registrar solo métricas sintéticas y resultado anonimizado. No repetir envío anterior, no automatizar sin permiso. Dashboard y H0.06 suspendidos.",
-    "expected_evidence": "evidence/H0.04-work-browser.md",
-    "acceptance": "Una orden, recepción única por destino original, identidad y borradores preservados, ningún envío no solicitado; registrar autenticación, confirmaciones, latencia y esfuerzo. No equivale a continuación automática."
+    "task": "H0.07.E1",
+    "description": "En entorno Work/Sites, probar evento privado monitor.test que activa Work y responde solo un marcador sintético, sin navegar ni enviar mensajes. Verificar descubrimiento, suscripción, callback, recepción única y cancelación. Si E1 pasa, E2 prueba navegador con página inocua; E3 requiere permiso y autorización específica para una entrega. No modificar tareas existentes ni retomar dashboard.",
+    "expected_evidence": "evidence/H0.07-mcp-events.md",
+    "acceptance": "Una única ejecución visible correlacionada con evento real, y cancelación verificada; un 2xx o simulador no es aceptación."
   },
-  "last_confirmed_base": "b240d5b2bef699cd5d01ed702f362d2109580bf1",
-  "last_change": "Usuario confirma envío real a pedido mediante Work; propuesta de controlador por alias y prueba agrupada, aún no ejecutada.",
+  "last_confirmed_base": "29e84ce449e0cced968d632c803892cbd3900ce3",
+  "last_change": "MCP Events verificado documentalmente; E1 real requiere entorno Sites/Work; consulta catálogo de eventos no disponible (404).",
   "updated_at": "2026-11-26"
 }
