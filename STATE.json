@@ -38,7 +38,7 @@
     "LOG.md#2026-11-25--envío-como-condición-previa"
   ],
   "blockers": [
-    "Plugin Continúa sin identificador en la conexión del Site ni entrada en el inventario personal tras republicar; falta comprobar configuración desde ChatGPT Desktop.",
+    "Falta acceso a una instalación funcional en ChatGPT Desktop. El Site no ofrece una ficha de plugin y el ZIP local depende de la disponibilidad de carga en la cuenta.",
     "Sin autorización aplicable establecida para envío externo o desatendido. H1 general continúa bloqueado."
   ],
   "risks": [
@@ -48,11 +48,11 @@
   ],
   "next_action": {
     "task": "H0.04.PERMISSION",
-    "description": "En ChatGPT Desktop, abrir el mismo Site con la misma cuenta y verificar si permite instalar o conectar Continúa. Solo después, accionar su botón una vez en un chat normal de prueba existente.",
+    "description": "Intentar la instalación manual del ZIP local si la cuenta ofrece la opción de carga, ejecutar el complemento en ChatGPT Desktop y verificar un único envío en un chat de prueba existente.",
     "expected_evidence": "evidence/H0.04-private-widget.md",
     "acceptance": "Un único mensaje con texto exacto «Continúa» aparece en el chat anfitrión existente, sin abrir otro. Una UI no disponible, borrador, rechazo o resultado incierto no cumple el criterio."
   },
-  "last_confirmed_base": "b3e87d34003546395cd631238124f84fd5279097",
-  "last_change": "Republicación privada verificada; el Site sigue sin devolver un identificador de plugin y el inventario personal está vacío.",
+  "last_confirmed_base": "d54e8335ce51daee193216c166ccd76dcaa06c87",
+  "last_change": "ZIP local entregado y servidor MCP validado fuera de ChatGPT Desktop.",
   "updated_at": "2026-11-26"
 }

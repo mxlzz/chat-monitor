@@ -51,3 +51,6 @@ Se implementó la invocación oficial desde un botón de un solo uso en un recur
 
 ## 2026-11-26 — Continúa no aparece en la cuenta
 El usuario reportó ausencia en Creados por vos. Republicación privada exitosa y MCP habilitado. La conexión del Site sigue sin identificador de plugin y el listado personal disponible está vacío. Queda por comprobar el flujo de instalación desde Desktop. [Evidencia](evidence/H0.04-private-widget.md#2026-11-26--instalación-del-plugin).
+
+## 2026-11-26 — ZIP para instalación manual
+Entregado complemento local. Verificado el archivo y su servidor MCP en ejecución fuera de ChatGPT. Queda pendiente instalarlo y medir el envío real. [Evidencia](evidence/H0.04-private-widget.md).
