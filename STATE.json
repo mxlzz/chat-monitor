@@ -38,7 +38,7 @@
     "LOG.md#2026-11-25--envío-como-condición-previa"
   ],
   "blockers": [
-    "Ensayo manual pendiente de confirmar presencia/conexión de Continúa en Plugins personales y de probarlo en un chat normal existente designado.",
+    "Plugin Continúa sin identificador en la conexión del Site ni entrada en el inventario personal tras republicar; falta comprobar configuración desde ChatGPT Desktop.",
     "Sin autorización aplicable establecida para envío externo o desatendido. H1 general continúa bloqueado."
   ],
   "risks": [
@@ -48,11 +48,11 @@
   ],
   "next_action": {
     "task": "H0.04.PERMISSION",
-    "description": "Completar exclusivamente la prueba privada: verificar presencia/conexión del plugin Continúa y accionar su botón una vez en un chat normal de prueba existente.",
+    "description": "En ChatGPT Desktop, abrir el mismo Site con la misma cuenta y verificar si permite instalar o conectar Continúa. Solo después, accionar su botón una vez en un chat normal de prueba existente.",
     "expected_evidence": "evidence/H0.04-private-widget.md",
     "acceptance": "Un único mensaje con texto exacto «Continúa» aparece en el chat anfitrión existente, sin abrir otro. Una UI no disponible, borrador, rechazo o resultado incierto no cumple el criterio."
   },
-  "last_confirmed_base": "bdf0c98da122e869833539cbbe7beaff161ce510",
-  "last_change": "Servidor MCP privado publicado y verificado; instalación, renderizado y envío en chat normal sin confirmar.",
-  "updated_at": "2026-11-25"
+  "last_confirmed_base": "b3e87d34003546395cd631238124f84fd5279097",
+  "last_change": "Republicación privada verificada; el Site sigue sin devolver un identificador de plugin y el inventario personal está vacío.",
+  "updated_at": "2026-11-26"
 }

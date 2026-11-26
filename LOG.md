@@ -48,3 +48,6 @@ Se verifica disponibilidad y límites de GitHub Actions para pruebas aisladas. R
 
 ## 2026-11-25 — widget privado de envío
 Se implementó la invocación oficial desde un botón de un solo uso en un recurso MCP y se publicó su servidor en Sites, con acceso exclusivo del propietario. Pasaron comprobaciones locales de recurso y sintaxis. La conexión no entregó identificador de plugin para instalar desde este entorno y la vista de Plugins del navegador no tenía sesión. El envío real queda pendiente de la conexión y pulsación en un chat normal de prueba existente. [Evidencia](evidence/H0.04-private-widget.md).
+
+## 2026-11-26 — Continúa no aparece en la cuenta
+El usuario reportó ausencia en Creados por vos. Republicación privada exitosa y MCP habilitado. La conexión del Site sigue sin identificador de plugin y el listado personal disponible está vacío. Queda por comprobar el flujo de instalación desde Desktop. [Evidencia](evidence/H0.04-private-widget.md#2026-11-26--instalación-del-plugin).
