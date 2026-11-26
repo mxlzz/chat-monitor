@@ -49,11 +49,11 @@
   ],
   "next_action": {
     "task": "H0.04.PERMISSION",
-    "description": "Intentar la instalación manual del ZIP local si la cuenta ofrece la opción de carga, ejecutar el complemento en ChatGPT Desktop y verificar un único envío en un chat de prueba existente. Como ensayo alternativo independiente, el usuario puede designar un chat normal de prueba y autorizar una verificación focalizada del acceso al cuadro desde Work. Detener ante bloqueo de dominio.",
+    "description": "Si se retoma el ensayo del complemento, verificar su disponibilidad en un chat existente y obtener autorización específica antes de probar otra entrega.",
     "expected_evidence": "evidence/H0.04-private-widget.md",
     "acceptance": "Un único mensaje con texto exacto «Continúa» aparece en el chat anfitrión existente, sin abrir otro. Una UI no disponible, borrador, rechazo o resultado incierto no cumple el criterio."
   },
-  "last_confirmed_base": "6691923d4a1904fc60e578bc650c8e6659a706f7",
-  "last_change": "Revisadas alternativas Work/Codex: no se identificó envío directo por ID a chat normal. Browser Use es candidato condicionado, con informes de restricción del dominio.",
+  "last_confirmed_base": "7c281ca2355fe72cd6c2a28ee781b250c18e87b1",
+  "last_change": "Entrega única verificada en un chat existente mediante el navegador de Work. Prueba del widget pendiente.",
   "updated_at": "2026-11-26"
 }

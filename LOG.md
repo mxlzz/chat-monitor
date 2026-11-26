@@ -57,3 +57,7 @@ Entregado complemento local. Verificado el archivo y su servidor MCP en ejecuci�
 
 ## 2026-11-26 — Work/Codex como origen
 Revisión de envío a otro chat normal y restricciones reportadas de Browser Use. [Evidencia](evidence/H0.04-work-browser.md). Sin envío real.
+
+## 2026-11-26 — entrega manual verificada desde Work
+
+Una única acción de envío en el navegador de Work produjo el mensaje esperado en el chat existente designado. La autorización puntual quedó utilizada. El ensayo del complemento sigue pendiente. [Evidencia](evidence/H0.04-work-browser.md#ensayo-de-envío-a-pedido-desde-work).
