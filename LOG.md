@@ -67,3 +67,7 @@ Usuario confirma envío desde Work. Propuesta de controlador dedicado por alias,
 
 ## 2026-11-26 — investigación de activación de Work por eventos
 Verificado contrato oficial MCP Events, requisitos de callback y ciclo de suscripción. No se halló garantía específica de emisión desde Sites ni de uso de Cloud Browser en ejecución por evento. Consulta de fuentes de eventos en este entorno devolvió 404 antes de invocar acción. Definidas pruebas E1–E3 con aceptación separada; no Site creado, no suscripción, tarea ni mensaje. E1 requiere entorno de autoría de Sites/Work. Objetivo intacto. Estado WAITING.
+
+## 2026-11-26 — E1 publicado en privado
+
+Se verificaron publicación, habilitación MCP y tabla de suscripciones del Site. El directorio personal web no mostró el plugin del experimento y Sites no entregó su identificador. Sin suscripción, callback ni respuesta de Work verificados. [Evidencia](evidence/H0.07-mcp-events.md#e1--site-publicado-y-suscripción-pendiente).

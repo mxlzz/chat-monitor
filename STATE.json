@@ -3,7 +3,7 @@
   "project": "chat-monitor",
   "objective": "OBJECTIVE.md",
   "plan": "PLAN.md",
-  "status": "waiting",
+  "status": "blocked",
   "milestone": "H0",
   "task": "H0.07.E1",
   "completed_tasks": [
@@ -41,7 +41,7 @@
     "LOG.md#2026-11-25--envío-como-condición-previa"
   ],
   "blockers": [
-    "E1: autoría/despliegue Sites y ejecución Work Cloud no disponibles en este chat; plugin Site anterior no instalable identificado.",
+    "E1: Sites omite el identificador del plugin y la ficha del experimento no aparece en el catálogo web personal.",
     "No se verificó emisión de eventos desde Sites ni disponibilidad de navegador en Work activado por evento.",
     "Envío desatendido y finalización confirmada siguen sin establecerse; H1 general bloqueado."
   ],
@@ -52,11 +52,11 @@
   ],
   "next_action": {
     "task": "H0.07.E1",
-    "description": "En entorno Work/Sites, probar evento privado monitor.test que activa Work y responde solo un marcador sintético, sin navegar ni enviar mensajes. Verificar descubrimiento, suscripción, callback, recepción única y cancelación. Si E1 pasa, E2 prueba navegador con página inocua; E3 requiere permiso y autorización específica para una entrega. No modificar tareas existentes ni retomar dashboard.",
+    "description": "Completar la configuración de este Site en Desktop con la cuenta propietaria. Verificar descubrimiento de monitor.test, suscripción en el mismo chat Work, entrega, respuesta exacta EVENTO_RECIBIDO y baja.",
     "expected_evidence": "evidence/H0.07-mcp-events.md",
     "acceptance": "Una única ejecución visible correlacionada con evento real, y cancelación verificada; un 2xx o simulador no es aceptación."
   },
-  "last_confirmed_base": "29e84ce449e0cced968d632c803892cbd3900ce3",
-  "last_change": "MCP Events verificado documentalmente; E1 real requiere entorno Sites/Work; consulta catálogo de eventos no disponible (404).",
+  "last_confirmed_base": "1c6454f49e40964f92a4f0da80d92462011cd68f",
+  "last_change": "E1 publicado como Site privado con MCP activo. No se pudo conectar su plugin a Work desde este entorno.",
   "updated_at": "2026-11-26"
 }
